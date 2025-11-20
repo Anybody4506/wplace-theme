@@ -1,6 +1,6 @@
 # Wplace Dark/Light Toggle (UserScript)
 
-![Preview](https://github.com/Anybody4506/wplace-theme/blob/main/iRvKW9me4c.png)
+![Preview](https://github.com/Anybody4506/wplace-theme/blob/main/iRvKW9me4cd.png)
 
 ---
 
